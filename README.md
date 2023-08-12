@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+I have created the calculator app from the article on [GeekForGeeks (author - harsh.agrawal0) ReactJS Calculator App](https://www.geeksforgeeks.org/reactjs-calculator-app-introduction/)
+
+
 ## Available Scripts
 
 In the project directory, you can run:

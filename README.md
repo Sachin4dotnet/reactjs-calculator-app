@@ -4,6 +4,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 I have created the calculator app from the article on [GeekForGeeks (author - harsh.agrawal0) ReactJS Calculator App](https://www.geeksforgeeks.org/reactjs-calculator-app-introduction/)
 
+### Glimpse of the Finished Project
+![](https://github.com/Sachin4dotnet/reactjs-calculator-app/blob/master/gfg_calculator.gif)
 
 ## Available Scripts
 
